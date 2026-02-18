@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# Data & models
+data/
+models/
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.log
